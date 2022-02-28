@@ -5,7 +5,7 @@ practica 2 de introducción a Github
 > Para esta practica ya se deben tener los conocimientos previos
 > para el uso y manejo de esta herramienta, con la mentoría y un poco de práctica esto puede mejorar.
 
-*Como primer mensaje que quiero dar es: Gracias HAckademy por los conocimientos que nos están brindando*
+*Como primer mensaje que quiero dar es: Gracias Hackademy por los conocimientos que nos están brindando*
 *para ser cada día mejores y poder entrar a un mundo competitivo laboral*
 
 ![hackademy](img/Hackademy01.jpg)
